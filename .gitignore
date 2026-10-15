@@ -1,0 +1,11 @@
+**/*.pth
+**/*.pt
+**/__pycache__/
+**/coco/
+*.onnx
+.DS_Store
+runs
+output/
+data/
+datasets/DEX_YCB_s0_*_sequence.json
+datasets/DEX_YCB_s0_*_sequence.json.gz

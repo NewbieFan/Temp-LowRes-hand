@@ -1,0 +1,11 @@
+torch>=1.9
+torchvision
+numpy<1.24
+opencv_python
+Pillow
+tqdm
+scipy
+imgaug
+tensorboardX
+chumpy
+pyyaml
